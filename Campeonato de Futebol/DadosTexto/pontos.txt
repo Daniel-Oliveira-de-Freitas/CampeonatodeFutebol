@@ -1,0 +1,1 @@
+[Pontuacao "ceara" 26,Pontuacao "palmeiras" 18,Pontuacao "flamengo" 28,Pontuacao "inter" 24,Pontuacao "gremio" 37,Pontuacao "juventude" 29,Pontuacao "corinthians" 14,Pontuacao "fluminense" 25,Pontuacao "santos" 16,Pontuacao "sport" 12]
